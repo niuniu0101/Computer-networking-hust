@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74932FC9-C58D-4BAD-AE83-6ED4CE2B5436}|newserver.vcxproj|C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74932FC9-C58D-4BAD-AE83-6ED4CE2B5436}|newserver.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74932FC9-C58D-4BAD-AE83-6ED4CE2B5436}|newserver.vcxproj|C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\tcpsocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74932FC9-C58D-4BAD-AE83-6ED4CE2B5436}|newserver.vcxproj|solutionrelative:tcpsocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74932FC9-C58D-4BAD-AE83-6ED4CE2B5436}|newserver.vcxproj|C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\tcpsocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74932FC9-C58D-4BAD-AE83-6ED4CE2B5436}|newserver.vcxproj|solutionrelative:tcpsocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 603,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tcpsocket.h",
+              "DocumentMoniker": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\tcpsocket.h",
+              "RelativeDocumentMoniker": "tcpsocket.h",
+              "ToolTip": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\tcpsocket.h",
+              "RelativeToolTip": "tcpsocket.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T12:15:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T12:13:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tcpsocket.cpp",
+              "DocumentMoniker": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\tcpsocket.cpp",
+              "RelativeDocumentMoniker": "tcpsocket.cpp",
+              "ToolTip": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\lala\\newserver\\tcpsocket.cpp",
+              "RelativeToolTip": "tcpsocket.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T12:13:32.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  tcpsocket.cpp
+C:\Users\23258\Desktop\计算机网络\实验\lala\newserver\tcpsocket.cpp(43,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\23258\Desktop\计算机网络\实验\lala\newserver\tcpsocket.cpp(75,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\23258\Desktop\计算机网络\实验\lala\newserver\tcpsocket.cpp(128,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\23258\Desktop\计算机网络\实验\lala\newserver\tcpsocket.cpp(141,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\23258\Desktop\计算机网络\实验\lala\newserver\tcpsocket.cpp(182,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  newserver.vcxproj -> C:\Users\23258\Desktop\计算机网络\实验\lala\server\x64\Debug\newserver.exe
