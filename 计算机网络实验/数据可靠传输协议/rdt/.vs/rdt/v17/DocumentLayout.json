@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\second\\rdt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28836E17-6D0E-4FD3-A8DE-EED1294A9C1B}|..\\TCP\\TCP.vcxproj|C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\second\\TCP\\TCPSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28836E17-6D0E-4FD3-A8DE-EED1294A9C1B}|..\\TCP\\TCP.vcxproj|C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\second\\TCP\\TCPReceiver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 603,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPSender.cpp",
+              "DocumentMoniker": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\second\\TCP\\TCPSender.cpp",
+              "RelativeDocumentMoniker": "..\\TCP\\TCPSender.cpp",
+              "ToolTip": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\second\\TCP\\TCPSender.cpp",
+              "RelativeToolTip": "..\\TCP\\TCPSender.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T05:58:18.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCPReceiver.cpp",
+              "DocumentMoniker": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\second\\TCP\\TCPReceiver.cpp",
+              "RelativeDocumentMoniker": "..\\TCP\\TCPReceiver.cpp",
+              "ToolTip": "C:\\Users\\23258\\Desktop\\\u8BA1\u7B97\u673A\u7F51\u7EDC\\\u5B9E\u9A8C\\second\\TCP\\TCPReceiver.cpp",
+              "RelativeToolTip": "..\\TCP\\TCPReceiver.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T05:58:15.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
